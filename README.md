@@ -8,3 +8,5 @@
 npm install
 npm run build
 ```
+
+something is wrong in windows，i need change method
